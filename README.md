@@ -1,7 +1,7 @@
 ### Github Stats
 
 <div align="center">
-[![MrForquest GitHub stats](https://github-readme-stats.vercel.app/api?username=MrForquest)](https://github.com/anuraghazra/github-readme-stats)
+![MrForquest GitHub stats](https://github-readme-stats.vercel.app/api?username=MrForquest)](https://github.com/anuraghazra/github-readme-stats)
 </div>  
 
 <!--
