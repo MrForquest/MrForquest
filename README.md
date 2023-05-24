@@ -1,6 +1,6 @@
 ### Github Stats
 <div>
-![MrForquest GitHub stats](https://github-readme-stats.vercel.app/api?username=MrForquest)
+<img src="https://github-readme-stats.vercel.app/api?username=MrForquest"/>
 </div>
 
 <!--
